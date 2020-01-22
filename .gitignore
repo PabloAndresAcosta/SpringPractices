@@ -1,0 +1,11 @@
+.project
+.settings
+.classpath
+.gradle
+gradle.properties
+derby.log
+target
+.history
+gradle/**
+.idea
+out/
